@@ -1,0 +1,6 @@
+{
+  "name": "Olé Español: Aprende y Millonario",
+  "description": "Plataforma interactiva de aprendizaje de español (A1-A2) con traducciones instantáneas al ruso, lecturas, ejercicios y juego ¿Quién quiere ser millonario?",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
